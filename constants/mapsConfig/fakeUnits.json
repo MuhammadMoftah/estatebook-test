@@ -1,0 +1,1345 @@
+[
+  {
+    "id": 662,
+    "title": "apartment for sale in midtown",
+    "slug": "apartment-for-sale-in-midtown",
+    "slugs": {
+      "ar": "شقة-للبيع-في-ميد-تاون",
+      "en": "apartment-for-sale-in-midtown"
+    },
+    "price": 5066610,
+    "bedroom": 3,
+    "bathroom": 4,
+    "area": 225,
+    "address": "Midtown new cairo, AUC Ave, New Cairo 1, Cairo Governorate",
+    "description": "An apartment is a residential unit that is a part of a residential building and contains several residences. Apartments are offered with a wide range of areas to match customers' requirements. Apartments include bedrooms, bathrooms, and a kitchen. In addition, different apartment views vary from one master plan to another. An Apartment may directly view the main road, subsidiary road, garden, or parking.",
+    "short_description": "An Apartment is a residential unit that is a part of a residential building and contains several residences.",
+    "status": "active",
+    "lat": 29.992899591640043,
+    "lng": 31.731720510553743,
+    "likes_count": null,
+    "keywords": "midtown,for sale,apartment,better home",
+    "duration": null,
+    "type": "residential",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "105554",
+    "min_down_payment": "2533305",
+    "main_image": "https://api.theestatebook.net/storage/4969/L4-(7).jpg",
+    "images": [
+      "https://api.theestatebook.net/storage/4970/L4-(6).jpg",
+      "https://api.theestatebook.net/storage/4971/L4-(4).jpg",
+      "https://api.theestatebook.net/storage/4972/L4-(5).jpg"
+    ],
+    "full_images_data": [
+      {
+        "id": 4970,
+        "image": "https://api.theestatebook.net/storage/4970/L4-(6).jpg"
+      },
+      {
+        "id": 4971,
+        "image": "https://api.theestatebook.net/storage/4971/L4-(4).jpg"
+      },
+      {
+        "id": 4972,
+        "image": "https://api.theestatebook.net/storage/4972/L4-(5).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 25,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 352,
+      "name": "Midtown new cairo",
+      "slug": "midtown-new-cairo",
+      "slugs": {
+        "en": "midtown-new-cairo",
+        "ar": "ميد-تاون"
+      },
+      "description": "Midtown New Cairo is at one of our best locations. It is a gated community only 1 minute away from the popular Road 90 and straight across the American University of Cairo. It totals up to 18 acers that include:\r\n⦁ Midtown New Cairo Mall.\r\n⦁ A barbeque area.\r\n⦁ Swimming pools.\r\n⦁ A kids’ area.\r\n⦁ Social hubs.\r\n⦁ Bicycle network.\r\n⦁ Jogging tracks.\r\n⦁ Underground parking.\r\n⦁ 17 elegant apartment buildings.\r\n\r\nThe compound’s plan dedicates 75% of property for breathtaking land and water scape. Midtown New Cairo is the perfect mix of a peaceful and urban environment.",
+      "address": "Midtown new cairo, AUC Ave, New Cairo 1, Cairo Governorate",
+      "duration": "1",
+      "min_month_payment": "56250",
+      "min_down_payment": "1350000",
+      "start_price": "2700000",
+      "start_delivery": "2018-01-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/5001/dfgh.jpg",
+      "images": [
+        "https://api.theestatebook.net/storage/4921/L6-(1).jpg",
+        "https://api.theestatebook.net/storage/4922/L6.jpg",
+        "https://api.theestatebook.net/storage/4923/L6-(3).jpg",
+        "https://api.theestatebook.net/storage/4924/L6-(6).jpg",
+        "https://api.theestatebook.net/storage/4925/L6-(5).jpg",
+        "https://api.theestatebook.net/storage/4926/pasted-image-0.png"
+      ],
+      "full_images_data": [
+        {
+          "id": 4921,
+          "image": "https://api.theestatebook.net/storage/4921/L6-(1).jpg"
+        },
+        {
+          "id": 4922,
+          "image": "https://api.theestatebook.net/storage/4922/L6.jpg"
+        },
+        {
+          "id": 4923,
+          "image": "https://api.theestatebook.net/storage/4923/L6-(3).jpg"
+        },
+        {
+          "id": 4924,
+          "image": "https://api.theestatebook.net/storage/4924/L6-(6).jpg"
+        },
+        {
+          "id": 4925,
+          "image": "https://api.theestatebook.net/storage/4925/L6-(5).jpg"
+        },
+        {
+          "id": 4926,
+          "image": "https://api.theestatebook.net/storage/4926/pasted-image-0.png"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1143,
+          "project_id": 352,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-14T11:48:33.000000Z",
+          "updated_at": "2023-02-14T11:48:33.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 2,
+      "coords": [
+        {
+          "lat": 30.012940830129565,
+          "lng": 31.50190570080273
+        },
+        {
+          "lat": 30.012885088717475,
+          "lng": 31.501326343655514
+        },
+        {
+          "lat": 30.012480962543094,
+          "lng": 31.501530191540645
+        },
+        {
+          "lat": 30.0126342519755,
+          "lng": 31.502077362179683
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 30,
+      "name": "Missouri Hermiston",
+      "mail": "7qkonopelski@example.com",
+      "about": "Et voluptatem enim voluptatem id. Eos maxime fuga dolore ad omnis libero. Sint eum numquam voluptatibus. Aperiam error dolores voluptatem doloribus.",
+      "mobile": "(551) 396-7934",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 82,
+      "avatar": "",
+      "company": {
+        "id": 2,
+        "name": "Mrs. Abigail Mueller",
+        "description": "Aut similique corrupti vero. Et nulla aliquam magnam omnis. Fuga quisquam ducimus consequatur.",
+        "mobile": "+1-917-328-3986",
+        "address": "Sed vero sed dolores amet ullam. Provident nesciunt et quia. Ipsum amet dicta nemo sapiente.",
+        "mail": "7stamm.zella@example.org",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 6,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 85,
+      "name": "apartment",
+      "slug": "apartment",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/2872/icons-06.png"
+    },
+    "state": {
+      "id": 110,
+      "name": "New Cairo",
+      "slug": "new-cairo",
+      "type": "neighbourhood",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/2057/download-(1).jpeg",
+      "units_count": null,
+      "coords": [
+        {
+          "lat": 30.093954074602962,
+          "lng": 31.58940930519033
+        },
+        {
+          "lat": 30.028582732055224,
+          "lng": 31.61962170753408
+        },
+        {
+          "lat": 30.01312501830316,
+          "lng": 31.58391614112783
+        },
+        {
+          "lat": 29.967927120000155,
+          "lng": 31.55370373878408
+        },
+        {
+          "lat": 29.9358003239127,
+          "lng": 31.524864627455955
+        },
+        {
+          "lat": 29.95245995838351,
+          "lng": 31.49877209815908
+        },
+        {
+          "lat": 29.966737423789795,
+          "lng": 31.46855969581533
+        },
+        {
+          "lat": 29.96435798863944,
+          "lng": 31.45482678565908
+        },
+        {
+          "lat": 29.963168249700107,
+          "lng": 31.439720584487205
+        },
+        {
+          "lat": 29.963168249700107,
+          "lng": 31.39440198097158
+        },
+        {
+          "lat": 29.976254594630536,
+          "lng": 31.357323123549705
+        },
+        {
+          "lat": 29.99766489517459,
+          "lng": 31.387535525893455
+        },
+        {
+          "lat": 30.020259647162572,
+          "lng": 31.40264172706533
+        },
+        {
+          "lat": 30.04166045356406,
+          "lng": 31.415001346205955
+        },
+        {
+          "lat": 30.072564569464852,
+          "lng": 31.44384045753408
+        },
+        {
+          "lat": 30.08682475353225,
+          "lng": 31.44933362159658
+        }
+      ],
+      "videos": [],
+      "images": [
+        "https://api.theestatebook.net/storage/2058/cover-1.jpg",
+        "https://api.theestatebook.net/storage/2059/Image-1-Cairo-Monorail.webp",
+        "https://api.theestatebook.net/storage/2060/download-(1).jpeg"
+      ],
+      "min_down_payment": 11.01974,
+      "min_month_payment": 5000,
+      "min_start_price": 1200000
+    },
+    "city": null,
+    "amenities": [
+      {
+        "id": 67,
+        "name": "Mosque",
+        "slug": "mosque",
+        "description": "Mosque",
+        "status": "active",
+        "links": [
+          {
+            "id": 1145,
+            "type": "image",
+            "link": "https://api.theestatebook.net/storage/4967/MOSQUE.png"
+          },
+          {
+            "id": 1146,
+            "type": "image",
+            "link": "https://api.theestatebook.net/storage/4968/LANDSCAPE.png"
+          }
+        ],
+        "logo": "https://api.theestatebook.net/storage/50/download.png"
+      }
+    ],
+    "videos": [
+      {
+        "id": 590,
+        "unit_id": 662,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T12:38:29.000000Z",
+        "updated_at": "2023-02-12T12:38:29.000000Z"
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": 661,
+    "title": "office for sale in condo mall",
+    "slug": "office-for-sale-in-condo-mall",
+    "slugs": {
+      "ar": "مكتب-اداري-للبيع-في-كوندو-مول",
+      "en": "office-for-sale-in-condo-mall"
+    },
+    "price": 3600000,
+    "bedroom": 1,
+    "bathroom": 1,
+    "area": 147,
+    "address": "MidTown CONDO, Cairo Governorate Desert, Cairo Governorate",
+    "description": "An Office is a property that is used for business purposes. It may be a part of a building or complex, a business park or a business district. Businesses rent out a space according to its spaces and the special business oriented features the office space provides.",
+    "short_description": "An Office is a property that is used by businesses as an office space that may be part of a building or complex, a business park or a business district.",
+    "status": "active",
+    "lat": 29.99062266499127,
+    "lng": 31.742218646480673,
+    "likes_count": null,
+    "keywords": "condo mall,better home ,for sale,office",
+    "duration": null,
+    "type": "commercial",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "45000",
+    "min_down_payment": "360000",
+    "main_image": "https://api.theestatebook.net/storage/4963/L4-(1).jpg",
+    "images": [
+      "https://api.theestatebook.net/storage/4964/L4-(2).jpg",
+      "https://api.theestatebook.net/storage/4965/L4-(3).jpg"
+    ],
+    "full_images_data": [
+      {
+        "id": 4964,
+        "image": "https://api.theestatebook.net/storage/4964/L4-(2).jpg"
+      },
+      {
+        "id": 4965,
+        "image": "https://api.theestatebook.net/storage/4965/L4-(3).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 7,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 356,
+      "name": "Midtown condo mall",
+      "slug": "midtown-condo-mall",
+      "slugs": {
+        "en": "midtown-condo-mall",
+        "ar": "ميد-تاون-كوندو-مول"
+      },
+      "description": "town Condo Mall is located on the Diplomatic street near the Olympic and Diplomatic cities. The commercial area is divided into 3,180 sqm indoor and 10,800 outdoor; which will include a variety of popular retail stores, dining options and coffee shops. It is a part of Midtown Condo; our gated residential compound.",
+      "address": "MidTown CONDO, Cairo Governorate Desert, Cairo Governorate",
+      "duration": "1",
+      "min_month_payment": "45000",
+      "min_down_payment": "360000",
+      "start_price": "3600000",
+      "start_delivery": "2023-02-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/4953/pasted-image-0.png",
+      "images": [
+        "https://api.theestatebook.net/storage/4954/L4-(3).jpg",
+        "https://api.theestatebook.net/storage/4955/L4-(2).jpg",
+        "https://api.theestatebook.net/storage/4956/L4-(1).jpg"
+      ],
+      "full_images_data": [
+        {
+          "id": 4954,
+          "image": "https://api.theestatebook.net/storage/4954/L4-(3).jpg"
+        },
+        {
+          "id": 4955,
+          "image": "https://api.theestatebook.net/storage/4955/L4-(2).jpg"
+        },
+        {
+          "id": 4956,
+          "image": "https://api.theestatebook.net/storage/4956/L4-(1).jpg"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1203,
+          "project_id": 356,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-16T12:03:25.000000Z",
+          "updated_at": "2023-02-16T12:03:25.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 6,
+      "coords": [
+        {
+          "lat": 29.947802251855457,
+          "lng": 31.718492854604683
+        },
+        {
+          "lat": 29.946719223766067,
+          "lng": 31.718723524579964
+        },
+        {
+          "lat": 29.94616143645778,
+          "lng": 31.718771804342232
+        },
+        {
+          "lat": 29.945961561910938,
+          "lng": 31.718004692563973
+        },
+        {
+          "lat": 29.945896486390424,
+          "lng": 31.716025222310982
+        },
+        {
+          "lat": 29.94588718988402,
+          "lng": 31.71535467005726
+        },
+        {
+          "lat": 29.947625621469967,
+          "lng": 31.715266157159768
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 30,
+      "name": "Missouri Hermiston",
+      "mail": "7qkonopelski@example.com",
+      "about": "Et voluptatem enim voluptatem id. Eos maxime fuga dolore ad omnis libero. Sint eum numquam voluptatibus. Aperiam error dolores voluptatem doloribus.",
+      "mobile": "(551) 396-7934",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 16,
+      "avatar": "",
+      "company": {
+        "id": 2,
+        "name": "Mrs. Abigail Mueller",
+        "description": "Aut similique corrupti vero. Et nulla aliquam magnam omnis. Fuga quisquam ducimus consequatur.",
+        "mobile": "+1-917-328-3986",
+        "address": "Sed vero sed dolores amet ullam. Provident nesciunt et quia. Ipsum amet dicta nemo sapiente.",
+        "mail": "7stamm.zella@example.org",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 7,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 62,
+      "name": "OFFICE",
+      "slug": "office",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/385/icons-04.png"
+    },
+    "state": {
+      "id": 99,
+      "name": "new capital",
+      "slug": "new-capital",
+      "type": "state",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/1382/دليل-العاصمة-الإدارية-موقع-عقار-عربى.jpg",
+      "units_count": null,
+      "coords": [],
+      "videos": [],
+      "images": null,
+      "min_down_payment": 37500,
+      "min_month_payment": 19479.17,
+      "min_start_price": 2000000
+    },
+    "city": null,
+    "amenities": [
+      {
+        "id": 78,
+        "name": "cycling area",
+        "slug": "cycling-area-1",
+        "description": "when on a two-wheeled bicycle, called bicycling or biking",
+        "status": "active",
+        "links": [
+          {
+            "id": 1144,
+            "type": "image",
+            "link": "https://api.theestatebook.net/storage/4966/RECYLING-AREA.png"
+          }
+        ],
+        "logo": "https://api.theestatebook.net/storage/480/icons-37.png"
+      }
+    ],
+    "videos": [
+      {
+        "id": 589,
+        "unit_id": 661,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T12:18:23.000000Z",
+        "updated_at": "2023-02-12T12:18:23.000000Z"
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": 660,
+    "title": "office in Midtown sky mall",
+    "slug": "office-in-midtown-sky-mall",
+    "slugs": {
+      "ar": "مكتب-في-ميدتاون-سكاي-مول",
+      "en": "office-in-midtown-sky-mall"
+    },
+    "price": 2100000,
+    "bedroom": 1,
+    "bathroom": 1,
+    "area": 70,
+    "address": "Midtown Sky New Capital, Cairo Governorate Desert, Egypt",
+    "description": "An Office is a property that is used for business purposes. It may be a part of a building or complex, a business park or a business district. Businesses rent out a space according to its spaces and the special business oriented features the office space provides.",
+    "short_description": "An Office is a property that is used by businesses as an office space that may be part of a building or complex, a business park or a business district.",
+    "status": "active",
+    "lat": 30.01312501830316,
+    "lng": 31.58391614112783,
+    "likes_count": null,
+    "keywords": "Midtown sky mall",
+    "duration": null,
+    "type": "commercial",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "26000",
+    "min_down_payment": "210000",
+    "main_image": "https://api.theestatebook.net/storage/4944/L6-(9).jpg",
+    "images": ["https://api.theestatebook.net/storage/4945/L6-(8).jpg"],
+    "full_images_data": [
+      {
+        "id": 4945,
+        "image": "https://api.theestatebook.net/storage/4945/L6-(8).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 90,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 351,
+      "name": "Midtown sky mall",
+      "slug": "midtown-sky-mall",
+      "slugs": {
+        "en": "midtown-sky-mall",
+        "ar": "ميدتاون-سكاي-مول"
+      },
+      "description": "town Sky Mall is located directly on The New Capital’s Ring Road in front of Expo City. The commercial area is divided into 432,90 sqm indoor area and 10,920 sqm outdoor; which will include a variety of popular retail stores, dining options and coffee shops. It is a part of Midtown Sky; our gated residential compound.",
+      "address": "Midtown Sky New Capital,  Cairo Governorate Desert, Cairo Governorate",
+      "duration": "1",
+      "min_month_payment": "26002",
+      "min_down_payment": "567000",
+      "start_price": "2100000",
+      "start_delivery": "2023-02-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/4916/1z96UZcY3yTVX6cS5qWFU_nYTsMvfUtlS6uPw1Rne.png",
+      "images": [
+        "https://api.theestatebook.net/storage/4917/L6-(8).jpg",
+        "https://api.theestatebook.net/storage/4918/L6-(9).jpg",
+        "https://api.theestatebook.net/storage/5005/oikjh.jpg"
+      ],
+      "full_images_data": [
+        {
+          "id": 4917,
+          "image": "https://api.theestatebook.net/storage/4917/L6-(8).jpg"
+        },
+        {
+          "id": 4918,
+          "image": "https://api.theestatebook.net/storage/4918/L6-(9).jpg"
+        },
+        {
+          "id": 5005,
+          "image": "https://api.theestatebook.net/storage/5005/oikjh.jpg"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1171,
+          "project_id": 351,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-15T10:18:42.000000Z",
+          "updated_at": "2023-02-15T10:18:42.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 6,
+      "coords": [
+        {
+          "lat": 29.955110000485377,
+          "lng": 31.699156450978165
+        },
+        {
+          "lat": 29.954950812443585,
+          "lng": 31.69927245651806
+        },
+        {
+          "lat": 29.954902010219136,
+          "lng": 31.699307325235253
+        },
+        {
+          "lat": 29.954825901940364,
+          "lng": 31.698983448496705
+        },
+        {
+          "lat": 29.95507078447686,
+          "lng": 31.6988922533902
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 5,
+      "name": "Dena Reynolds",
+      "mail": "3shania.witting@example.com",
+      "about": "Voluptatum et autem ut. Nemo dolore temporibus cumque laborum beatae. A mollitia aut ad hic. Et sed quia est odio repudiandae est expedita.",
+      "mobile": "740.384.2202",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 66,
+      "avatar": "",
+      "company": {
+        "id": 50,
+        "name": "Dorothea Herzog",
+        "description": "Id odit quo beatae necessitatibus excepturi quos. Porro corrupti omnis et. Ullam cum qui magni quo.",
+        "mobile": "1-352-559-4654",
+        "address": "Aut temporibus eum officiis esse nulla adipisci. Sed molestiae dignissimos voluptas nostrum ipsam.",
+        "mail": "6zpurdy@example.net",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 1,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 62,
+      "name": "OFFICE",
+      "slug": "office",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/385/icons-04.png"
+    },
+    "state": {
+      "id": 99,
+      "name": "new capital",
+      "slug": "new-capital",
+      "type": "state",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/1382/دليل-العاصمة-الإدارية-موقع-عقار-عربى.jpg",
+      "units_count": null,
+      "coords": [],
+      "videos": [],
+      "images": null,
+      "min_down_payment": 37500,
+      "min_month_payment": 19479.17,
+      "min_start_price": 2000000
+    },
+    "city": null,
+    "amenities": [],
+    "videos": [
+      {
+        "id": 587,
+        "unit_id": 660,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T11:38:48.000000Z",
+        "updated_at": "2023-02-12T11:38:48.000000Z"
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": 659,
+    "title": "apartment in Midtown Condo",
+    "slug": "apartment-in-midtown-condo-1",
+    "slugs": {
+      "ar": "شقة-في-ميدتاون-كوندو-1",
+      "en": "apartment-in-midtown-condo-1"
+    },
+    "price": 2100000,
+    "bedroom": 2,
+    "bathroom": 2,
+    "area": 115,
+    "address": "MidTown CONDO، Cairo Governorate Desert, Cairo Governorate",
+    "description": "An apartment is a residential unit that is a part of a residential building and contains several residences. Apartments are offered with a wide range of areas to match customers' requirements. Apartments include bedrooms, bathrooms, and a kitchen. In addition, different apartment views vary from one master plan to another. An Apartment may directly view the main road, subsidiary road, garden, or parking.",
+    "short_description": "An Apartment is a residential unit that is a part of a residential building and contains several residences.",
+    "status": "active",
+    "lat": 29.9929073954657,
+    "lng": 31.73245303426603,
+    "likes_count": null,
+    "keywords": "Midtown Condo",
+    "duration": null,
+    "type": "residential",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "22543",
+    "min_down_payment": "210000",
+    "main_image": "https://api.theestatebook.net/storage/4914/L4.jpg",
+    "images": ["https://api.theestatebook.net/storage/4915/L6-(5).jpg"],
+    "full_images_data": [
+      {
+        "id": 4915,
+        "image": "https://api.theestatebook.net/storage/4915/L6-(5).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 34,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 349,
+      "name": "Midtown Condo",
+      "slug": "midtown-condo",
+      "slugs": {
+        "en": "midtown-condo",
+        "ar": "ميدتاون-كوندو"
+      },
+      "description": "\"Midtown Condo Administrative Capital is one of the new residential projects in the New Administrative Capital, which is being built by Better Home, which has achieved previous success in its residential projects in the Administrative Capital and is considered a medium-priced project where the price per meter starts from 9,000 EGP.\r\n\r\nThe real estate developer was keen to choose a distinctive site in order to build the compound so that it is in the heart of the Administrative Capital, the residential neighborhood R7, which is the best neighborhood in the Administrative Capital and located between Expo City and Al Sefarat Neighborhood, near the regional ring road and Mohammed bin Zayed South axis.\"",
+      "address": "MidTown CONDO, Cairo Governorate Desert, Cairo Governorate",
+      "duration": "1",
+      "min_month_payment": "29002",
+      "min_down_payment": "2700000",
+      "start_price": "2700000",
+      "start_delivery": "2022-01-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/4999/edfgh.jpg",
+      "images": [
+        "https://api.theestatebook.net/storage/4899/L6-(5).jpg",
+        "https://api.theestatebook.net/storage/4900/L6-(6).jpg",
+        "https://api.theestatebook.net/storage/4901/L6-(7).jpg",
+        "https://api.theestatebook.net/storage/4902/L6.jpg",
+        "https://api.theestatebook.net/storage/4903/L4.jpg"
+      ],
+      "full_images_data": [
+        {
+          "id": 4899,
+          "image": "https://api.theestatebook.net/storage/4899/L6-(5).jpg"
+        },
+        {
+          "id": 4900,
+          "image": "https://api.theestatebook.net/storage/4900/L6-(6).jpg"
+        },
+        {
+          "id": 4901,
+          "image": "https://api.theestatebook.net/storage/4901/L6-(7).jpg"
+        },
+        {
+          "id": 4902,
+          "image": "https://api.theestatebook.net/storage/4902/L6.jpg"
+        },
+        {
+          "id": 4903,
+          "image": "https://api.theestatebook.net/storage/4903/L4.jpg"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1141,
+          "project_id": 349,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-14T11:47:28.000000Z",
+          "updated_at": "2023-02-14T11:47:28.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 7,
+      "coords": [
+        {
+          "lat": 29.943920403008796,
+          "lng": 31.712075916406476
+        },
+        {
+          "lat": 29.94366009532913,
+          "lng": 31.709576097604597
+        },
+        {
+          "lat": 29.944803584702264,
+          "lng": 31.709790674325788
+        },
+        {
+          "lat": 29.94569605507853,
+          "lng": 31.709554639932477
+        },
+        {
+          "lat": 29.946077211861205,
+          "lng": 31.711067405816877
+        },
+        {
+          "lat": 29.94620736262319,
+          "lng": 31.712590900537336
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 5,
+      "name": "Dena Reynolds",
+      "mail": "3shania.witting@example.com",
+      "about": "Voluptatum et autem ut. Nemo dolore temporibus cumque laborum beatae. A mollitia aut ad hic. Et sed quia est odio repudiandae est expedita.",
+      "mobile": "740.384.2202",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 86,
+      "avatar": "",
+      "company": {
+        "id": 50,
+        "name": "Dorothea Herzog",
+        "description": "Id odit quo beatae necessitatibus excepturi quos. Porro corrupti omnis et. Ullam cum qui magni quo.",
+        "mobile": "1-352-559-4654",
+        "address": "Aut temporibus eum officiis esse nulla adipisci. Sed molestiae dignissimos voluptas nostrum ipsam.",
+        "mail": "6zpurdy@example.net",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 4,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 85,
+      "name": "apartment",
+      "slug": "apartment",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/2872/icons-06.png"
+    },
+    "state": {
+      "id": 99,
+      "name": "new capital",
+      "slug": "new-capital",
+      "type": "state",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/1382/دليل-العاصمة-الإدارية-موقع-عقار-عربى.jpg",
+      "units_count": null,
+      "coords": [],
+      "videos": [],
+      "images": null,
+      "min_down_payment": 37500,
+      "min_month_payment": 19479.17,
+      "min_start_price": 2000000
+    },
+    "city": null,
+    "amenities": [],
+    "videos": [
+      {
+        "id": 586,
+        "unit_id": 659,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T10:51:53.000000Z",
+        "updated_at": "2023-02-12T10:51:53.000000Z"
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": 658,
+    "title": "apartment in Midtown Condo",
+    "slug": "apartment-in-midtown-condo",
+    "slugs": {
+      "ar": "شقة-في-ميدتاون-كوندو",
+      "en": "apartment-in-midtown-condo"
+    },
+    "price": 4003000,
+    "bedroom": 3,
+    "bathroom": 3,
+    "area": 250,
+    "address": "MidTown CONDO، Cairo Governorate Desert, Cairo Governorate",
+    "description": "An apartment is a residential unit that is a part of a residential building and contains several residences. Apartments are offered with a wide range of areas to match customers' requirements. Apartments include bedrooms, bathrooms, and a kitchen. In addition, different apartment views vary from one master plan to another. An Apartment may directly view the main road, subsidiary road, garden, or parking.",
+    "short_description": "An Apartment is a residential unit that is a part of a residential building and contains several residences.",
+    "status": "active",
+    "lat": 30.021184762822596,
+    "lng": 31.433621987709465,
+    "likes_count": null,
+    "keywords": "Midtown Condo",
+    "duration": null,
+    "type": "residential",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "42000",
+    "min_down_payment": "400000",
+    "main_image": "https://api.theestatebook.net/storage/4906/L6-(5).jpg",
+    "images": ["https://api.theestatebook.net/storage/4907/L6-(7).jpg"],
+    "full_images_data": [
+      {
+        "id": 4907,
+        "image": "https://api.theestatebook.net/storage/4907/L6-(7).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 43,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 349,
+      "name": "Midtown Condo",
+      "slug": "midtown-condo",
+      "slugs": {
+        "en": "midtown-condo",
+        "ar": "ميدتاون-كوندو"
+      },
+      "description": "\"Midtown Condo Administrative Capital is one of the new residential projects in the New Administrative Capital, which is being built by Better Home, which has achieved previous success in its residential projects in the Administrative Capital and is considered a medium-priced project where the price per meter starts from 9,000 EGP.\r\n\r\nThe real estate developer was keen to choose a distinctive site in order to build the compound so that it is in the heart of the Administrative Capital, the residential neighborhood R7, which is the best neighborhood in the Administrative Capital and located between Expo City and Al Sefarat Neighborhood, near the regional ring road and Mohammed bin Zayed South axis.\"",
+      "address": "MidTown CONDO, Cairo Governorate Desert, Cairo Governorate",
+      "duration": "1",
+      "min_month_payment": "29002",
+      "min_down_payment": "2700000",
+      "start_price": "2700000",
+      "start_delivery": "2022-01-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/4999/edfgh.jpg",
+      "images": [
+        "https://api.theestatebook.net/storage/4899/L6-(5).jpg",
+        "https://api.theestatebook.net/storage/4900/L6-(6).jpg",
+        "https://api.theestatebook.net/storage/4901/L6-(7).jpg",
+        "https://api.theestatebook.net/storage/4902/L6.jpg",
+        "https://api.theestatebook.net/storage/4903/L4.jpg"
+      ],
+      "full_images_data": [
+        {
+          "id": 4899,
+          "image": "https://api.theestatebook.net/storage/4899/L6-(5).jpg"
+        },
+        {
+          "id": 4900,
+          "image": "https://api.theestatebook.net/storage/4900/L6-(6).jpg"
+        },
+        {
+          "id": 4901,
+          "image": "https://api.theestatebook.net/storage/4901/L6-(7).jpg"
+        },
+        {
+          "id": 4902,
+          "image": "https://api.theestatebook.net/storage/4902/L6.jpg"
+        },
+        {
+          "id": 4903,
+          "image": "https://api.theestatebook.net/storage/4903/L4.jpg"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1141,
+          "project_id": 349,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-14T11:47:28.000000Z",
+          "updated_at": "2023-02-14T11:47:28.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 7,
+      "coords": [
+        {
+          "lat": 29.943920403008796,
+          "lng": 31.712075916406476
+        },
+        {
+          "lat": 29.94366009532913,
+          "lng": 31.709576097604597
+        },
+        {
+          "lat": 29.944803584702264,
+          "lng": 31.709790674325788
+        },
+        {
+          "lat": 29.94569605507853,
+          "lng": 31.709554639932477
+        },
+        {
+          "lat": 29.946077211861205,
+          "lng": 31.711067405816877
+        },
+        {
+          "lat": 29.94620736262319,
+          "lng": 31.712590900537336
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 5,
+      "name": "Dena Reynolds",
+      "mail": "3shania.witting@example.com",
+      "about": "Voluptatum et autem ut. Nemo dolore temporibus cumque laborum beatae. A mollitia aut ad hic. Et sed quia est odio repudiandae est expedita.",
+      "mobile": "740.384.2202",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 59,
+      "avatar": "",
+      "company": {
+        "id": 50,
+        "name": "Dorothea Herzog",
+        "description": "Id odit quo beatae necessitatibus excepturi quos. Porro corrupti omnis et. Ullam cum qui magni quo.",
+        "mobile": "1-352-559-4654",
+        "address": "Aut temporibus eum officiis esse nulla adipisci. Sed molestiae dignissimos voluptas nostrum ipsam.",
+        "mail": "6zpurdy@example.net",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 10,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 85,
+      "name": "apartment",
+      "slug": "apartment",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/2872/icons-06.png"
+    },
+    "state": {
+      "id": 99,
+      "name": "new capital",
+      "slug": "new-capital",
+      "type": "state",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/1382/دليل-العاصمة-الإدارية-موقع-عقار-عربى.jpg",
+      "units_count": null,
+      "coords": [],
+      "videos": [],
+      "images": null,
+      "min_down_payment": 37500,
+      "min_month_payment": 19479.17,
+      "min_start_price": 2000000
+    },
+    "city": null,
+    "amenities": [
+      {
+        "id": 76,
+        "name": "cafe and resturants",
+        "slug": "cafe-and-resturants",
+        "description": "Cafe\" is a restaurant that does not offer table service",
+        "status": "active",
+        "links": [
+          {
+            "id": 1134,
+            "type": "image",
+            "link": "https://api.theestatebook.net/storage/4905/icons-03.png"
+          }
+        ],
+        "logo": "https://api.theestatebook.net/storage/472/icons-35.png"
+      }
+    ],
+    "videos": [
+      {
+        "id": 585,
+        "unit_id": 658,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T10:44:17.000000Z",
+        "updated_at": "2023-02-12T10:44:17.000000Z"
+      }
+    ],
+    "favorite": false
+  },
+  {
+    "id": 657,
+    "title": "town house for sale in midtown villa",
+    "slug": "town-house-for-sale-in-midtown-villa-1",
+    "slugs": {
+      "ar": "تاون-هاوس-للبيع-في-ميد-تاون-فيلا",
+      "en": "town-house-for-sale-in-midtown-villa-1"
+    },
+    "price": 7429010,
+    "bedroom": 3,
+    "bathroom": 4,
+    "area": 200,
+    "address": "Midtown Villa, , Cairo Governorate Desert",
+    "description": "4 houses connected together in one plot of land, sharing walls and each one has its own private entrance and garden. This means that your home will have 4 neighbors. Townhouses could be linear (4 villas in one line, 2 corner villas and 2 middle villas) or 4 corner villas in one building.",
+    "short_description": "4 houses connected together in one plot of land, sharing walls and each one has its own private entrance and garden.",
+    "status": "active",
+    "lat": 30.02122192065759,
+    "lng": 31.43574629724926,
+    "likes_count": null,
+    "keywords": "town house middle,better home,for sale,midtown villa",
+    "duration": null,
+    "type": "residential",
+    "sale_type": "resale",
+    "flag": "premium",
+    "min_month_payment": "92862",
+    "min_down_payment": "742901",
+    "main_image": "https://api.theestatebook.net/storage/4893/L6.jpg",
+    "images": [
+      "https://api.theestatebook.net/storage/4894/L6-(3).jpg",
+      "https://api.theestatebook.net/storage/4895/L6-(1).jpg",
+      "https://api.theestatebook.net/storage/4896/L6-(4).jpg",
+      "https://api.theestatebook.net/storage/4897/L6-(2).jpg"
+    ],
+    "full_images_data": [
+      {
+        "id": 4894,
+        "image": "https://api.theestatebook.net/storage/4894/L6-(3).jpg"
+      },
+      {
+        "id": 4895,
+        "image": "https://api.theestatebook.net/storage/4895/L6-(1).jpg"
+      },
+      {
+        "id": 4896,
+        "image": "https://api.theestatebook.net/storage/4896/L6-(4).jpg"
+      },
+      {
+        "id": 4897,
+        "image": "https://api.theestatebook.net/storage/4897/L6-(2).jpg"
+      }
+    ],
+    "developer": {
+      "id": 63,
+      "name": "Better Home",
+      "description": "Better Home Group, a real estate investment and development group, was established to offer sustainable world-class communities with lavish lifestyles through its wide array of projects. Egypt’s Real Estate market was challenging and we accepted the challenge, by adding specialized subsidiaries under Better Home Group umbrella to better serve our mission, among which is Better Home, Better Office, Better Mall and Better Mix.",
+      "slug": "better-home",
+      "slugs": {
+        "en": "better-home",
+        "ar": "بتر-هوم"
+      },
+      "mobile": null,
+      "email": null,
+      "website": null,
+      "address": "Better Home Group, N Teseen, New Cairo 1, Cairo Governorate 4740007",
+      "status": "active",
+      "projects_count": null,
+      "resale_count": 68,
+      "logo": "https://api.theestatebook.net/storage/3078/better-home.jpg",
+      "cover_image": "https://api.theestatebook.net/storage/2579/2.jpg"
+    },
+    "project": {
+      "sdcs": [],
+      "id": 348,
+      "name": "Midtown Villa",
+      "slug": "midtown-villa",
+      "slugs": {
+        "en": "midtown-villa",
+        "ar": "ميد-تاون-فيلا"
+      },
+      "description": "Midtown Villa is a gated community located directly on Bin Zayed road right at the corner of the new cathedral (The Birth of Christ Cathedral). It is only 20 minutes away from the center of New Cairo.\r\n\r\nMidtown Villa was the first licensed land at The New Capital. Only 18% of the 50-acer compound will be built upon. The rest of the property will be wonderfully designed greenery and waterscape. The Compound will also include Midtown Villa Mall, jogging tracks, bike lanes and a swimming pool.\r\n\r\nA beautiful variety of living spaces is offered at Midtown Villa. All unit types are listed below with more details.",
+      "address": "Midtown Villa, محافظة القاهرة‬،،, Cairo Governorate Desert",
+      "duration": "1",
+      "min_month_payment": "94112.63",
+      "min_down_payment": "752901",
+      "start_price": "7529010",
+      "start_delivery": "2020-02-01",
+      "favorite": false,
+      "logo": "https://api.theestatebook.net/storage/5000/guj.jpg",
+      "images": [
+        "https://api.theestatebook.net/storage/4865/L6.jpg",
+        "https://api.theestatebook.net/storage/4866/L6-(2).jpg",
+        "https://api.theestatebook.net/storage/4867/L6-(4).jpg",
+        "https://api.theestatebook.net/storage/4868/L6-(1).jpg",
+        "https://api.theestatebook.net/storage/4869/L6-(3).jpg"
+      ],
+      "full_images_data": [
+        {
+          "id": 4865,
+          "image": "https://api.theestatebook.net/storage/4865/L6.jpg"
+        },
+        {
+          "id": 4866,
+          "image": "https://api.theestatebook.net/storage/4866/L6-(2).jpg"
+        },
+        {
+          "id": 4867,
+          "image": "https://api.theestatebook.net/storage/4867/L6-(4).jpg"
+        },
+        {
+          "id": 4868,
+          "image": "https://api.theestatebook.net/storage/4868/L6-(1).jpg"
+        },
+        {
+          "id": 4869,
+          "image": "https://api.theestatebook.net/storage/4869/L6-(3).jpg"
+        }
+      ],
+      "flag": "premium",
+      "videos": [
+        {
+          "id": 1185,
+          "project_id": 348,
+          "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+          "created_at": "2023-02-15T10:47:27.000000Z",
+          "updated_at": "2023-02-15T10:47:27.000000Z"
+        }
+      ],
+      "payment_method": "installment",
+      "installment_years": 6,
+      "coords": [
+        {
+          "lat": 29.974115033826198,
+          "lng": 31.71048629262743
+        },
+        {
+          "lat": 29.976029552011973,
+          "lng": 31.713281154420947
+        },
+        {
+          "lat": 29.974142915423748,
+          "lng": 31.715872168329334
+        },
+        {
+          "lat": 29.971707893070214,
+          "lng": 31.71394097783861
+        }
+      ],
+      "phases": [],
+      "master_layouts": []
+    },
+    "agent": {
+      "id": 30,
+      "name": "Missouri Hermiston",
+      "mail": "7qkonopelski@example.com",
+      "about": "Et voluptatem enim voluptatem id. Eos maxime fuga dolore ad omnis libero. Sint eum numquam voluptatibus. Aperiam error dolores voluptatem doloribus.",
+      "mobile": "(551) 396-7934",
+      "units_count": null,
+      "projects_count": null,
+      "resale_count": 33,
+      "avatar": "",
+      "company": {
+        "id": 2,
+        "name": "Mrs. Abigail Mueller",
+        "description": "Aut similique corrupti vero. Et nulla aliquam magnam omnis. Fuga quisquam ducimus consequatur.",
+        "mobile": "+1-917-328-3986",
+        "address": "Sed vero sed dolores amet ullam. Provident nesciunt et quia. Ipsum amet dicta nemo sapiente.",
+        "mail": "7stamm.zella@example.org",
+        "logo": null,
+        "image": null,
+        "agent_count": null,
+        "total_resales_number": 4,
+        "project_count": null
+      }
+    },
+    "UnitType": {
+      "id": 66,
+      "name": "town middle",
+      "slug": "town-middle",
+      "status": "active",
+      "icon": "https://api.theestatebook.net/storage/541/icons-05.png"
+    },
+    "state": {
+      "id": 99,
+      "name": "new capital",
+      "slug": "new-capital",
+      "type": "state",
+      "status": "active",
+      "image": "https://api.theestatebook.net/storage/1382/دليل-العاصمة-الإدارية-موقع-عقار-عربى.jpg",
+      "units_count": null,
+      "coords": [],
+      "videos": [],
+      "images": null,
+      "min_down_payment": 37500,
+      "min_month_payment": 19479.17,
+      "min_start_price": 2000000
+    },
+    "city": null,
+    "amenities": [
+      {
+        "id": 58,
+        "name": "Commerical  Area",
+        "slug": "commerical-area",
+        "description": "Commercial  Area",
+        "status": "active",
+        "links": [
+          {
+            "id": 1132,
+            "type": "image",
+            "link": "https://api.theestatebook.net/storage/4892/CONSTRACTION-AREA.png"
+          }
+        ],
+        "logo": "https://api.theestatebook.net/storage/41/download.png"
+      }
+    ],
+    "videos": [
+      {
+        "id": 591,
+        "unit_id": 657,
+        "url": "https://www.youtube.com/channel/UC6g1b1n-vZ5Q84FRmASbrWg",
+        "created_at": "2023-02-12T14:21:04.000000Z",
+        "updated_at": "2023-02-12T14:21:04.000000Z"
+      }
+    ],
+    "favorite": false
+  }
+]
